@@ -18,14 +18,14 @@ A pyspark pipeline to build a biomedical discourse graph.
 
 #### Pipelines
 
-##### build_discourse_graph.py
+##### app/jobs/build_discourse_graph/build_discourse_graph.py
 - input network graph.
 - config file includes nodes types of interest + edge types of interest.
 - pipeline builds discourse graph from input. 
 - converts to neo4j output.
 - stores to aws or local.
 
-##### build_analytics_graph.py
+##### app/jobs/build_analytics_graph/build_analytics_graph.py
 - input discourse graph.
 - for each claim calculates the scores of each evidence piece.
 - collapses the claim nodes to edges with the calculated score.
