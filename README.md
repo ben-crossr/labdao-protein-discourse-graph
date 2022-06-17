@@ -6,15 +6,15 @@ A pyspark pipeline to build a biomedical discourse graph.
 
 ### Useful Links
 
-[Pyspark save to s3](https://stackoverflow.com/questions/45869510/pyspark-save-dataframe-to-s3)
-[Pyspark Example Project](https://github.com/AlexIoannides/pyspark-example-project)
-[Running a Spark ETL Job](https://github.com/AlexIoannides/pyspark-example-project#running-the-etl-job)
-[Batch Importer Neo4J Docs](https://neo4j.com/developer/guide-import-csv/#batch-importer)
-[Neo4j Admin Import Tool Manual](https://neo4j.com/docs/operations-manual/current/tools/neo4j-admin/neo4j-admin-import)
-[Accessing Nested Data in PySpark](https://stackoverflow.com/questions/34043031/accessing-nested-data-in-spark/34044373)
-[Parquet FileFormat](https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/spark-sql-ParquetFileFormat.html)
-[Merge Multiple Columns To Json Pyspark](https://stackoverflow.com/questions/60435907/pyspark-merge-multiple-columns-into-a-json-column)
-[Deploy Neo4J With AWS Docs](https://neo4j.com/developer/neo4j-cloud-aws-ec2-ami/)
+- [Pyspark save to s3](https://stackoverflow.com/questions/45869510/pyspark-save-dataframe-to-s3)
+- [Pyspark Example Project](https://github.com/AlexIoannides/pyspark-example-project)
+- [Running a Spark ETL Job](https://github.com/AlexIoannides/pyspark-example-project#running-the-etl-job)
+- [Batch Importer Neo4J Docs](https://neo4j.com/developer/guide-import-csv/#batch-importer)
+- [Neo4j Admin Import Tool Manual](https://neo4j.com/docs/operations-manual/current/tools/neo4j-admin/neo4j-admin-import)
+- [Accessing Nested Data in PySpark](https://stackoverflow.com/questions/34043031/accessing-nested-data-in-spark/34044373)
+- [Parquet FileFormat](https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/spark-sql-ParquetFileFormat.html)
+- [Merge Multiple Columns To Json Pyspark](https://stackoverflow.com/questions/60435907/pyspark-merge-multiple-columns-into-a-json-column)
+- [Deploy Neo4J With AWS Docs](https://neo4j.com/developer/neo4j-cloud-aws-ec2-ami/)
 
 #### Pipelines
 
