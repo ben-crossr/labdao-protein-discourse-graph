@@ -1,0 +1,7 @@
+{
+  "input_nodes_data_path" : "data/input/string/9606.protein.info.v11.5.txt",
+  "input_edges_data_path" : "data/input/string/9606.protein.links.full.v11.5.txt",
+  "local_output_data_path": "data/output/",
+  "aws_output_data_path": "s3a://biomedical-discourse-graph",
+  "log_level" : "WARN"
+}
